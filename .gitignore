@@ -23,3 +23,5 @@ yarn-error.log*
 plan.txt
 
 .vscode
+
+/src/config/firebase.config.js
